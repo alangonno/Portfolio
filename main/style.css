@@ -1,0 +1,32 @@
+@import 'UTF-8';
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* #BD2A2E  #3B3936  #B2BEBF  #889C9B  #486966 */
+
+body {
+    background-color: #3B3936;
+    font-family: 'Roboto';
+    color: #acaaaa;
+    
+}
+
+p {
+    text-align: justify;
+    font-size: 1.3em;
+    text-indent: 1em;
+}
+
+h1#principal {
+    font-size: 7em;
+    color: #B2BEBF;
+    text-align: center;
+    text-indent: 0px;
+
+}
+
+h1 {
+    text-indent: 1.5em;
+    font-size: 3em;
+    color: rgb(225, 231, 231);
+}
