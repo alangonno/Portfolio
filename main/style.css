@@ -12,7 +12,7 @@ body {
 }
 
 p {
-    text-align: justify;
+    text-align: center;
     font-size: 1.3em;
     text-indent: 1em;
 }
@@ -21,12 +21,21 @@ h1#principal {
     font-size: 7em;
     color: #B2BEBF;
     text-align: center;
-    text-indent: 0px;
+    text-indent: 0.2em;
 
 }
 
 h1 {
-    text-indent: 1.5em;
+    
     font-size: 3em;
     color: rgb(225, 231, 231);
+    text-align: center;
+}
+
+img.projeto {
+    border: 2px solid white;
+}
+
+div {
+    text-align: center;
 }
