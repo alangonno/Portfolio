@@ -8,11 +8,13 @@ body {
     background-color: #3B3936;
     font-family: 'Roboto';
     color: #acaaaa;
+    text-align: center;
+    margin: 0px 0px 60px 0px;
+    
     
 }
 
 p {
-    text-align: center;
     font-size: 1.3em;
     text-indent: 1em;
 }
@@ -20,22 +22,15 @@ p {
 h1#principal {
     font-size: 7em;
     color: #B2BEBF;
-    text-align: center;
     text-indent: 0.2em;
-
 }
 
 h1 {
-    
     font-size: 3em;
     color: rgb(225, 231, 231);
-    text-align: center;
 }
 
 img.projeto {
     border: 2px solid white;
-}
-
-div {
-    text-align: center;
+    margin: 5px 20px 5px 20px;
 }
