@@ -30,7 +30,14 @@ h1 {
     color: rgb(225, 231, 231);
 }
 
-img.projeto {
+img {
     border: 2px solid white;
+}
+
+img.projeto {
     margin: 5px 20px 5px 20px;
+}
+
+img#rosto {
+    border-radius: 50%;
 }
